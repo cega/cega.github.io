@@ -65,7 +65,7 @@ emitted-attribution: 26/4/2004
  - Procese hasta emulsionar.
  - Incorpore el aceite de cilantro al jugo de ananá reducido, con un batidor de alambre. Reserve.
 
-#Presentación
+##Presentación
 
  - En un plato coloque el puré, el pollo frito, rocíe con la salsa y decore con cilantro.
 
